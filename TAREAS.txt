@@ -1,0 +1,46 @@
+BU = Entendimiento del Negocio (Business Understanding)
+BU1 Generar un corpus de leyes ambientales mexicanas para utilizarlas por de PNL
+?	Lista de objetivo del negocio
+BU2 Evaluar la situación
+?	Lista de recursos computacionales 
+o	Inventario (CC y Personal)
+?	Recursos humanos 
+o	Director del proyecto, codirector del proyecto con el expertise
+?	Software
+o	Python y bibliotecas, Github (Tika, NLTK, PyPDF2 + 2 más)
+?	Listado de restricciones
+o	9 leyes
+?	Recursos computacionales
+o	Tiempo y memoria
+BU3 Creación del Repositorio de GitHub
+•	Con nombre del proyecto
+o	Readme (Intro, Colaboración, Estructura)
+•	Planificacion de carpetas principales
+o	Datos (Datos sin procesar, Datos procesados)
+o	Docs (Proyecto- Estructura, Reporte de Datos- JSON
+o	Codigo (Preparación de los Datos)
+•	Usar metodología TSDP Directorios – Recortado
+
+3.4.2 DU = Entendimiento de los Datos (Data Understanding)
+DU1 Recolección de Datos Iniciales
+•	Reporte de adquisición de datos (describir el proceso de descarga de cada ley)
+DU2 Descripción de los datos
+•	Estructura de leyes (Logo, nombre, artículos)
+•	Descripción del documento de Ley (Imagen, origen a estructura JSON)
+DU3 Exploración de los Datos
+•	Transformación PDF a txt (RapidMiner, Python, PyPDF2)
+•	Reporte de análisis de dichas exploraciones con graficos generados
+•	Medición de tiempo y memoria
+
+
+3.4.3 DP = Preparación de los Datos (Data Preparation)
+DP1 Descripción del Corpus
+•	Descripción del formato de ley (formato, hojas)
+•	Transformación PDF a txt con cada herramienta seleccionada
+DP2 Limpieza de Datos
+•	Eliminación de ruido (Quitar encabezados 1 vez)
+•	Quitar stopwords, paginas, logos
+•	Transformar a estructura JSON
+DP3 Construcción de los datos
+DP4 Formateo
+•	Etiquetado
