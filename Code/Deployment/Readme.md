@@ -1,3 +1,3 @@
-# This folder contains code for model deployment
+# Esta carpeta contiene el código para el despliegue del modelo.
 
-You can add detailed description in this markdown related to your specific data science project.
+Puedes añadir una descripción detallada en este markdown relacionada con el proyecto de mineria de textos.
