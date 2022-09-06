@@ -1,1 +1,1 @@
-# Folder for hosting all documents and reports related to modeling
+#En esta carpeta se alojan todos los documentos e informes relacionados con la modelización.
