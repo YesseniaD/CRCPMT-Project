@@ -1,12 +1,33 @@
-# Folder for hosting project documents and reports for a Data Science Project
+#En esta carpeta se muestran los documentos del proyecto de mineria de textos:
 
-These could be: 
+#BU = Entendimiento del Negocio (Business Understanding)
+BU1 Generar un corpus de leyes ambientales mexicanas para utilizarlas por de PNL
+?	Lista de objetivo del negocio
+BU2 Evaluar la situación
+?	Lista de recursos computacionales 
+o	Inventario (CC y Personal)
+?	Recursos humanos 
+o	Director del proyecto, codirector del proyecto con el expertise
+?	Software
+o	Python y bibliotecas, Github (Tika, NLTK, PyPDF2 + 2 más)
+?	Listado de restricciones
+o	9 leyes
+?	Recursos computacionales
+o	Tiempo y memoria
+BU3 Plan del Proyecto
+•	Con nombre del proyecto
+o	Readme (Intro, Colaboración, Estructura)
+•	Planificacion de carpetas principales
+o	Datos (Datos sin procesar, Datos procesados)
+o	Docs (Proyecto- Estructura, Reporte de Datos- JSON
+o	Codigo (Preparación de los Datos)
+•	Usar metodología TSDP Directorios – Recortado
 
-1. Project management and planning docs
-2. System architecture
-3. Information obtained from a business owner or client about the project
-4. Docs and presentations prepared to share information about hte project
-
-In this folder we have templates for project chater and exit report. 
-
-In addition, if you have access to Microsoft Project or Excel, you may use project templates provided in this [blog](https://blogs.msdn.microsoft.com/buckwoody/2017/10/24/a-data-science-microsoft-project-template-you-can-use-in-your-solutions).
+#DU = Entendimiento de los Datos (Data Understanding)
+DU2 Descripción de los datos
+•	Estructura de leyes (Logo, nombre, artículos)
+•	Descripción del documento de Ley (Imagen, origen a estructura JSON)
+DU3 Exploración de los Datos
+•	Transformación PDF a txt (RapidMiner, Python, PyPDF2)
+•	Reporte de análisis de dichas exploraciones con graficos generados
+•	Medición de tiempo y memoria
