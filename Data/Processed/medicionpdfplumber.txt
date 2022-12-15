@@ -1,0 +1,63 @@
+El archivo text_pdfplumber.txt contiene: 55365 palabras
+Nombre del archivo:  C:\Users\YESS\Downloads\Proyecto Mineria\Leyes\LeydeAguasNacionales.pdf
+Numero de paginas:  <Page:112>
+Numero de palabras:  55365
+Tiempo de ejecucion:  323.576512186
+Memoria RAM del Proceso:  82.7
+Memoria RAM TOTAL:  2948521984
+El archivo text_pdfplumber.txt contiene: 25012 palabras
+Nombre del archivo:  C:\Users\YESS\Downloads\Proyecto Mineria\Leyes\LeydeBioseguridaddeOrganismosGeneticamenteModificados.pdf
+Numero de paginas:  <Page:49>
+Numero de palabras:  25012
+Tiempo de ejecucion:  516.049500283
+Memoria RAM del Proceso:  72.6
+Memoria RAM TOTAL:  2948521984
+El archivo text_pdfplumber.txt contiene: 31387 palabras
+Nombre del archivo:  C:\Users\YESS\Downloads\Proyecto Mineria\Leyes\LeydeDesarrolloRuralSustentable.pdf
+Numero de paginas:  <Page:73>
+Numero de palabras:  31387
+Tiempo de ejecucion:  681.8276219020001
+Memoria RAM del Proceso:  76.8
+Memoria RAM TOTAL:  2948521984
+El archivo text_pdfplumber.txt contiene: 26780 palabras
+Nombre del archivo:  C:\Users\YESS\Downloads\Proyecto Mineria\Leyes\LeyGeneraldeCambioClimatico.pdf
+Numero de paginas:  <Page:64>
+Numero de palabras:  26780
+Tiempo de ejecucion:  834.3541887000001
+Memoria RAM del Proceso:  70.1
+Memoria RAM TOTAL:  2948521984
+El archivo text_pdfplumber.txt contiene: 29772 palabras
+Nombre del archivo:  C:\Users\YESS\Downloads\Proyecto Mineria\Leyes\LeyGeneraldeDesarrolloForestalSustentable.pdf
+Numero de paginas:  <Page:50>
+Numero de palabras:  29772
+Tiempo de ejecucion:  1002.667731113
+Memoria RAM del Proceso:  71.9
+Memoria RAM TOTAL:  2948521984
+El archivo text_pdfplumber.txt contiene: 55609 palabras
+Nombre del archivo:  C:\Users\YESS\Downloads\Proyecto Mineria\Leyes\LeyGeneraldelEquilibrioEcologicoylaProteccionalAmbiente.pdf
+Numero de paginas:  <Page:128>
+Numero de palabras:  55609
+Tiempo de ejecucion:  1375.9759656180001
+Memoria RAM del Proceso:  80.5
+Memoria RAM TOTAL:  2948521984
+El archivo text_pdfplumber.txt contiene: 31325 palabras
+Nombre del archivo:  C:\Users\YESS\Downloads\Proyecto Mineria\Leyes\LeyGeneraldePescayAcuaculturaSustentables.pdf
+Numero de paginas:  <Page:71>
+Numero de palabras:  31325
+Tiempo de ejecucion:  1583.1584438769999
+Memoria RAM del Proceso:  71.6
+Memoria RAM TOTAL:  2948521984
+El archivo text_pdfplumber.txt contiene: 29382 palabras
+Nombre del archivo:  C:\Users\YESS\Downloads\Proyecto Mineria\Leyes\LeyGeneraldeVidaSilvestre.pdf
+Numero de paginas:  <Page:72>
+Numero de palabras:  29382
+Tiempo de ejecucion:  1743.2110554050003
+Memoria RAM del Proceso:  69.9
+Memoria RAM TOTAL:  2948521984
+El archivo text_pdfplumber.txt contiene: 24939 palabras
+Nombre del archivo:  C:\Users\YESS\Downloads\Proyecto Mineria\Leyes\LeyGeneralparalaPrevencionyGestionIntegraldelosResiduos.pdf
+Numero de paginas:  <Page:56>
+Numero de palabras:  24939
+Tiempo de ejecucion:  1873.356318021
+Memoria RAM del Proceso:  68.2
+Memoria RAM TOTAL:  2948521984
